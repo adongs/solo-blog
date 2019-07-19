@@ -10,8 +10,8 @@ adong
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](https://www.adongs.com/my-github-repos)
-* [世界，你好！](https://www.adongs.com/hello-solo)
+* [我在 GitHub 上的开源项目](https://adongs.com/my-github-repos)
+* [世界，你好！](https://adongs.com/hello-solo)
 
 
 
