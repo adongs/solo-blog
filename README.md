@@ -10,8 +10,8 @@ adong
 
 ### 最新
 
+* [Solo博客搭建](https://adongs.com/articles/2019/07/19/1563518672127.html)
 * [我在 GitHub 上的开源项目](https://adongs.com/my-github-repos)
-* [世界，你好！](https://adongs.com/hello-solo)
 
 
 
