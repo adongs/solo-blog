@@ -10,6 +10,8 @@ adong
 
 ### 最新
 
+* [Spring Cloud Config 和 Spring Cloud Bus 实现动态修改配置](https://adongs.com/articles/2019/07/23/1563870080765.html)
+* [spring-boot-starter-actuator 开放端点](https://adongs.com/articles/2019/07/23/1563867506462.html)
 * [Spring Boot 中配置文件bootstrap 和 application的区别](https://adongs.com/articles/2019/07/22/1563789226071.html)
 * [Spring cloud config(配置服务)服务搭建](https://adongs.com/articles/2019/07/22/1563785103493.html)
 * [Solo博客搭建](https://adongs.com/articles/2019/07/19/1563518672127.html)
