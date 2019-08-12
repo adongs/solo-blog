@@ -16,7 +16,6 @@ adong
 * [Spring Boot 中配置文件bootstrap 和 application的区别](https://adongs.com/articles/2019/07/22/1563789226071.html)
 * [Spring cloud config(配置服务)服务搭建](https://adongs.com/articles/2019/07/22/1563785103493.html)
 * [Solo博客搭建](https://adongs.com/articles/2019/07/19/1563518672127.html)
-* [我在 GitHub 上的开源项目](https://adongs.com/my-github-repos)
 
 
 
