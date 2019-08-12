@@ -1,4 +1,4 @@
-<p align="center"><img alt="adong" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="adong" src="https://avatars2.githubusercontent.com/u/17808661?v=4"></p><h2 align="center">
 adong
 </h2>
 
@@ -10,6 +10,8 @@ adong
 
 ### 最新
 
+* [SSL 免费申请-Letsencrypt](https://adongs.com/articles/2019/08/12/1565606243689.html)
+* [SSH免密码登录](https://adongs.com/articles/2019/08/12/1565601682328.html)
 * [Git常用命令](https://adongs.com/articles/2019/07/31/1564564281860.html)
 * [Spring Cloud Config 和 Spring Cloud Bus 实现动态修改配置](https://adongs.com/articles/2019/07/23/1563870080765.html)
 * [spring-boot-starter-actuator 开放端点](https://adongs.com/articles/2019/07/23/1563867506462.html)
