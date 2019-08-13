@@ -10,6 +10,7 @@ adong
 
 ### 最新
 
+* [mac 搭建golang环境](https://adongs.com/articles/2019/08/13/1565671165076.html)
 * [SSL 免费申请-Letsencrypt](https://adongs.com/articles/2019/08/12/1565606243689.html)
 * [SSH免密码登录](https://adongs.com/articles/2019/08/12/1565601682328.html)
 * [Git常用命令](https://adongs.com/articles/2019/07/31/1564564281860.html)
