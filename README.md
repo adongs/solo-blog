@@ -10,6 +10,7 @@ adong
 
 ### 最新
 
+* [Spring Batch (二)-搭建篇](https://adongs.com/articles/2019/08/30/1567132951228.html)
 * [Spring Batch (一) -简介篇](https://adongs.com/articles/2019/08/15/1565849267073.html)
 * [mac 搭建golang环境](https://adongs.com/articles/2019/08/13/1565671165076.html)
 * [SSL 免费申请-Letsencrypt](https://adongs.com/articles/2019/08/12/1565606243689.html)
