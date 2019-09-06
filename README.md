@@ -11,6 +11,7 @@ adong
 ### 最新
 
 * [Zookeeper集群搭建](https://adongs.com/articles/2019/09/05/1567670501099.html)
+* [Kafka为集群搭建](https://adongs.com/articles/2019/09/04/1567589287529.html)
 * [mac安装Cz工具以及使用介绍](https://adongs.com/articles/2019/09/04/1567587385010.html)
 * [Solr经纬度](https://adongs.com/articles/2019/09/04/1567585556354.html)
 * [Spring Batch (二)-搭建篇](https://adongs.com/articles/2019/08/30/1567132951228.html)
